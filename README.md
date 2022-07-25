@@ -146,3 +146,8 @@ Render Properties > Color Management : Contrast and Exposure
 
 Output Properties, output files as images and compile them into mp4 or so on.
 
+
+
+
+
+Characters: [Mixamo in Blender - Substance 3D (adobe.com)](https://substance3d.adobe.com/plugins/mixamo-in-blender/)
